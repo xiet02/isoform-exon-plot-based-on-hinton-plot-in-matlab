@@ -15,7 +15,8 @@ function hintonDiagram_Exon_HL(w,hl_box)
 %   hintonDiagram_HL(W,pos,hl_box)
 
 % Tao Xie 
-% Last modified: Feb. 19, 2016
+% 
+% Last modified: Feb. 19, 2017
 % Based on hintonw function from Mathworks neural net toolbox
 
 if nargin < 2
